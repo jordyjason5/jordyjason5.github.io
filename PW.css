@@ -1,0 +1,40 @@
+body{
+    background-image:url("images/space.jpg");
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.about{
+    display:flex;
+    flex-direction: row;
+    font-size: 150px;
+    color:white;    
+    word-spacing: 250px;
+
+}
+
+p{
+    color: white;
+    font-size: 40px;
+    text-shadow: 2px 2px yellow;
+    width: 50%;
+    opacity: 0,8;
+    
+}
+p2{
+    color:white;
+    font-size: 40px;
+    text-shadow: 2px 2px yellow;
+    width: 50%;
+    opacity: 0,8;
+    
+}
