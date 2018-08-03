@@ -2,10 +2,11 @@ body{
     background-image:url("images/nice.jpg");
     text-align: center;
     color:white;
+    
+
+    
 }
-
-
-/* Style the links inside the navigation bar */
+ /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
     display: block;
@@ -52,28 +53,8 @@ body{
         border: 1px solid #ccc;
     }
 }
-h1{
-    font-size: 50px;
-   
-}
-.text{
+
+.titles{
     font-size: 30px;
-    color: white;
-    text-shadow: yellow 30px;
-    font-weight: bold;
-    background-color: black;
-    opacity: 0.5;
-    
 }
-
-.about{
-    padding-bottom: 30px;
-    font-size: 40px;
-    text-decoration: black underline;
-  
-   
-}
-
-
-
 
